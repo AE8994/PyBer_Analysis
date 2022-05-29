@@ -7,7 +7,7 @@ A comparison of data for ride-share by city type showing trends in ride share us
 
 Result of Analysis
 
-Analysis shows the highest trip requests occur in urban areas.  Urban areas received 1,625 requests compared to the 625 request in suburban and 125 request in rural areas.  In addition, there are more drivers in urban areas.  The driver counts in urban areas are 2,405 compared to 490 drivers in suburban areas and 78 drivers in rural areas.  Fares collected in urban areas totaled almost $40,000.  Suburban areas collected about half as much in fares and rural areas collected a little over a tenth of fares when compared to urban areas.
+Analysis shows the highest trip requests occur in urban areas.  Urban areas received 1,625 requests compared to the 625 request in suburban and 125 request in rural areas.  In addition, there are more drivers in urban areas.  The driver counts in urban areas are 2,405 compared to 490 drivers in suburban areas and 78 drivers in rural areas.  Fares collected in urban areas totaled almost $40,000.  Suburban areas collected about half as much in fares and rural areas collected a little over a tenth of fares when compared to urban areas.  The average fare per ride indicates that rural requests have a higher fare per trip than the other areas, possibly because of the length of the trip.  Suburban ride requests generate a slightly higher fare per trip than urban trip requests.  There is a substantial difference in fares collected per driver in the rural areas.  Rural areas have fewer drivers and a higher fare per trip on average.
 
            Total Rides  Total Drivers   Total Fares   Average Fare per Ride   Average Fare per Driver
 
